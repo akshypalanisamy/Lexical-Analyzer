@@ -8,4 +8,4 @@ To run the program use the following command:
 ```
 $go run go-hunter-scanner.go test.txt
 ```
-The program will then create then create the output file named test.out containing the tokens and lexemes. 
+The program will then create an output file named test.out containing the tokens and lexemes. 
