@@ -1,0 +1,8 @@
+BEGIN
+$shipname <= "enterprise" :
+%capacity <= 5436.2345 :
+#foodsupply <= 7987342 :
+%distancetonextstop <= #foodsupply * %capacity :
+WRITE "distance to next supply station" :
+WRITE %distancetonextstop :
+END .
