@@ -1,5 +1,5 @@
 # Lexical-Analyzer
-A simple lexical analyzer written in Golang. 
+A simple lexical analyzer written in Golang. This project was made for the Concepts of Programming Languages course.
 
 This program takes in the grammar of a fictional programming language called hunter-scanner and outputs its tokens and lexemes.
 
